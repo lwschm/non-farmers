@@ -2,9 +2,7 @@
 title: "Do non-farmers pay more for farmland than farmers?"
 author: "Lorenz Schmidt, Martin Odening and Matthias Ritter"
 date: "2023-8-8"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
