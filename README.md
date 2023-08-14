@@ -8,6 +8,7 @@ This repository is for the work "Do non-farmers pay more for land than farmers?"
 **Method**: Causal forest, SHAP values
 
 **Code structure**:
+
 renv-non-farmers.lock contains the environment configuration file
 
 code-non-farmers.md contains the code for all calculations including data cleaning and robustness checks
